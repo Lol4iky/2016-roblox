@@ -1,7 +1,7 @@
 # 2016-roblox
 Its a fanmade 2016 Roblox frontend made on Node.JS
 
-#How to build that shit?
+# How to build that shit?
 
 1. If you don't already have it, install an LTS version of node
 
